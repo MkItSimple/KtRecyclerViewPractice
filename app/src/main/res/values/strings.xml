@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KtRecyclerViewPractice</string>
+    <string name="pokemon_name">Pokemon Name</string>
+</resources>
