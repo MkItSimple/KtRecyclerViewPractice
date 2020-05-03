@@ -10,6 +10,7 @@ import com.xwray.groupie.ViewHolder
 import kotlinx.android.synthetic.main.activity_pokemon_list.*
 import kotlinx.android.synthetic.main.row_pokemon_list.view.*
 
+// p1
 class PokemonListActivity : AppCompatActivity() {
 
     companion object {
